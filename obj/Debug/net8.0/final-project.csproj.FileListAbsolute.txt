@@ -1,0 +1,28 @@
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\final-project\bin\Debug\net8.0\final-project.exe
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\final-project\bin\Debug\net8.0\final-project.deps.json
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\final-project\bin\Debug\net8.0\final-project.runtimeconfig.json
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\final-project\bin\Debug\net8.0\final-project.dll
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\final-project\bin\Debug\net8.0\final-project.pdb
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\final-project\obj\Debug\net8.0\final-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\final-project\obj\Debug\net8.0\final-project.AssemblyInfoInputs.cache
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\final-project\obj\Debug\net8.0\final-project.AssemblyInfo.cs
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\final-project\obj\Debug\net8.0\final-project.csproj.CoreCompileInputs.cache
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\final-project\obj\Debug\net8.0\final-project.dll
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\final-project\obj\Debug\net8.0\refint\final-project.dll
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\final-project\obj\Debug\net8.0\final-project.pdb
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\final-project\obj\Debug\net8.0\final-project.genruntimeconfig.cache
+C:\Users\ketsy\OneDrive\Desktop\Files\csharp-course\final-project\obj\Debug\net8.0\ref\final-project.dll
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\final-project\bin\Debug\net8.0\final-project.exe
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\final-project\bin\Debug\net8.0\final-project.deps.json
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\final-project\bin\Debug\net8.0\final-project.runtimeconfig.json
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\final-project\bin\Debug\net8.0\final-project.dll
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\final-project\bin\Debug\net8.0\final-project.pdb
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\final-project\obj\Debug\net8.0\final-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\final-project\obj\Debug\net8.0\final-project.AssemblyInfoInputs.cache
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\final-project\obj\Debug\net8.0\final-project.AssemblyInfo.cs
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\final-project\obj\Debug\net8.0\final-project.csproj.CoreCompileInputs.cache
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\final-project\obj\Debug\net8.0\final-project.dll
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\final-project\obj\Debug\net8.0\refint\final-project.dll
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\final-project\obj\Debug\net8.0\final-project.pdb
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\final-project\obj\Debug\net8.0\final-project.genruntimeconfig.cache
+C:\Users\ketsy\OneDrive\Desktop\Files\FullStack\Classes\FSWD1022 csharp-course\final-project\obj\Debug\net8.0\ref\final-project.dll
